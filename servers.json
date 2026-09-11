@@ -17,13 +17,4 @@
     "addressV4": "10.0.0.4/32",
     "mtu": 1420
   },
-  {
-    "name": "United States VIP",
-    "privateKey": "yCCOpmzreKrP4i/OkWtIIWF1RO3uNNX8tgRR9Q1yeEM=",
-    "publicKey": "aC6vDrwYUR2oozlfB0liTXqZDCTfWXf2lQGBJWzUVTk=",
-    "endpoint": "104.207.90.248:29012",
-    "cellularFallbackEndpoint": "104.207.90.248:500",
-    "addressV4": "10.0.0.3/32",
-    "mtu": 1280
-  }
-]
+ 
