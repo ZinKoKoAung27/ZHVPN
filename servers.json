@@ -55,7 +55,7 @@
     "privateKey": "QOmkafC8NsEPQXd+3Wb98feAQkbSb0j2YKCFdayuZ24=",
     "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
     "endpoint": "162.159.193.10:500",
-    "cellularFallbackEndpoint": "162.159.193.10:2408",
+    "cellularFallbackEndpoint": "162.159.193.10:500",
     "addressV4": "172.16.0.2/32",
     "addressV6": "2606:4700:110:89a1:5fee:d3a2:68d3:94c8/128",
     "mtu": 1280
