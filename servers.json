@@ -54,8 +54,8 @@
     "protocol": "wireguard",
     "privateKey": "OM4P+WB5j4XGbxYLJPEuMcUlE/pevKiopq7EUM8vBWs=",
     "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-    "endpoint": "162.159.193.9:500",
-    "cellularFallbackEndpoint": "162.159.193.9:500",
+    "endpoint": "162.159.192.21:500",
+    "cellularFallbackEndpoint": "162.159.192.21:500",
     "addressV4": "172.16.0.2/32",
     "addressV6": "2606:4700:110:85ef:a6f2:e775:bf2a:704d/128",
     "mtu": 1280
