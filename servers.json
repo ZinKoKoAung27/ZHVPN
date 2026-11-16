@@ -59,4 +59,48 @@
     "addressV4": "172.16.0.2/32",
     "addressV6": "2606:4700:110:85ef:a6f2:e775:bf2a:704d/128",
     "mtu": 1280
+  },
+{
+    "name": "Myanmar Server 17",
+    "protocol": "wireguard",
+    "privateKey": "4HOqiuQ8aAWWBJHw7Ch7KwPn2Vd9qqArzWs1nH9IH00=",
+    "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+    "endpoint": "162.159.192.14:500",
+    "cellularFallbackEndpoint": "162.159.192.14:500",
+    "addressV4": "172.16.0.2/32",
+    "addressV6": "2606:4700:110:8026:25dc:f598:7c9c:d7d1/128",
+    "mtu": 1280
+  },
+  {
+    "name": "Myanmar Server 18",
+    "protocol": "wireguard",
+    "privateKey": "yHL33pKIMWy01WVEIgwSlAxS/LgP8GFhV+ORgdHiIGo=",
+    "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+    "endpoint": "162.159.192.15:500",
+    "cellularFallbackEndpoint": "162.159.192.15:500",
+    "addressV4": "172.16.0.2/32",
+    "addressV6": "2606:4700:110:8a73:18f6:9ff4:3e46:6e68/128",
+    "mtu": 1280
+  },
+  {
+    "name": "Myanmar Server 19",
+    "protocol": "wireguard",
+    "privateKey": "iM/72r9RAXeiLOs+suGLnHGaW8Z/JAyRdvLBSVtv9XM=",
+    "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+    "endpoint": "162.159.192.113:500",
+    "cellularFallbackEndpoint": "162.159.192.113:500",
+    "addressV4": "172.16.0.2/32",
+    "addressV6": "2606:4700:110:8c9b:698d:e18d:ae42:c79f/128",
+    "mtu": 1280
+  },
+  {
+    "name": "Myanmar Server 20",
+    "protocol": "wireguard",
+    "privateKey": "OFXRJg8hMZRfMMSFlnyJYS67xBNzl0QZH5yRq1J82k0=",
+    "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+    "endpoint": "162.159.192.113:500",
+    "cellularFallbackEndpoint": "162.159.192.113:500",
+    "addressV4": "172.16.0.2/32",
+    "addressV6": "2606:4700:110:829f:7f10:720f:908e:8811/128",
+    "mtu": 1280
   }
